@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>水伴 - 技术支持 / WaterBuddy - Support</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            line-height: 1.7;
+            color: #333;
+            background: #f5f5f7;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 { font-size: 28px; margin-bottom: 10px; color: #1a1a1a; }
+        h2 { font-size: 20px; margin-top: 30px; margin-bottom: 12px; color: #1a1a1a; }
+        p { margin-bottom: 12px; color: #555; }
+        ul { margin-left: 20px; margin-bottom: 12px; }
+        li { margin-bottom: 6px; color: #555; }
+        .lang-toggle {
+            text-align: right;
+            margin-bottom: 20px;
+        }
+        .lang-btn {
+            display: inline-block;
+            padding: 6px 16px;
+            background: #007aff;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .section { display: none; }
+        .section.active { display: block; }
+        .faq-item { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
+        .faq-item:last-child { border-bottom: none; }
+        .faq-q { font-weight: 600; color: #1a1a1a; margin-bottom: 8px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="lang-toggle">
+            <a href="#" class="lang-btn" onclick="switchLang('zh'); return false;">中文</a>
+            <a href="#" class="lang-btn" onclick="switchLang('en'); return false;">English</a>
+        </div>
+
+        <!-- 中文版本 -->
+        <div id="zh" class="section active">
+            <h1>水伴 - 技术支持</h1>
+            <p style="margin-bottom: 24px;">感谢您使用水伴！如果您在使用过程中遇到任何问题，请查看以下常见问题，或通过下方方式联系我们。</p>
+
+            <h2>常见问题</h2>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 提醒通知不响怎么办？</p>
+                <p>A: 请检查以下设置：
+                <ul>
+                    <li>确保系统"设置" → "通知" → "水伴"中已开启通知权限</li>
+                    <li>检查应用内"设置" → "提醒设置"中提醒开关是否开启</li>
+                    <li>检查提醒开始/结束时间和间隔设置是否正确</li>
+                    <li>如果开启了专注模式，请将水伴添加到允许列表</li>
+                </ul>
+                </p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 如何与 Apple 健康同步数据？</p>
+                <p>A: 在应用内进入"设置" → "健康同步"，点击开启同步即可。首次使用时需要在系统弹窗中授权水伴访问您的健康数据。</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 如何删除一条喝水记录？</p>
+                <p>A: 在首页的"今日记录"列表中，向左滑动对应的记录，点击"删除"按钮即可。</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 数据会丢失吗？</p>
+                <p>A: 您的数据存储在设备本地。为避免数据丢失，建议定期使用"设置" → "数据管理" → "导出数据"功能进行备份。更换设备时可以使用导入功能恢复数据。</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 高级版有哪些功能？</p>
+                <p>A: 高级版包含：月/年度统计视图、深度数据洞察、全部宠物皮肤解锁等。高级版为可选付费功能，基础功能永久免费。</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: 如何恢复已购买的高级版？</p>
+                <p>A: 在购买页面点击"恢复购买"按钮，使用您购买时的 Apple ID 验证即可恢复。</p>
+            </div>
+
+            <h2>联系我们</h2>
+            <p>如果以上问题没有解决您的疑问，欢迎通过以下方式联系我们：</p>
+            <ul>
+                <li>📧 邮箱：pangtong@example.com</li>
+                <li>💬 应用内反馈：设置 → 关于 → 意见反馈</li>
+            </ul>
+            <p>我们会在 24 小时内回复您的邮件。</p>
+        </div>
+
+        <!-- English Version -->
+        <div id="en" class="section">
+            <h1>WaterBuddy - Support</h1>
+            <p style="margin-bottom: 24px;">Thank you for using WaterBuddy! If you encounter any issues while using the app, please check the FAQ below or contact us using the methods at the bottom.</p>
+
+            <h2>Frequently Asked Questions</h2>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: Why aren't reminder notifications working?</p>
+                <p>A: Please check the following settings:
+                <ul>
+                    <li>Make sure notifications are enabled in Settings → Notifications → WaterBuddy</li>
+                    <li>Check that the reminder toggle is ON in the app Settings → Reminder Settings</li>
+                    <li>Verify the reminder start/end times and interval are correct</li>
+                    <li>If Focus Mode is on, add WaterBuddy to the allowed apps list</li>
+                </ul>
+                </p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: How do I sync with Apple Health?</p>
+                <p>A: Go to Settings → Health Sync in the app and tap to enable sync. On first use, you'll need to authorize WaterBuddy to access your health data in the system popup.</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: How do I delete a water record?</p>
+                <p>A: In the "Today's Records" list on the home screen, swipe left on the record and tap the "Delete" button.</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: Will my data be lost?</p>
+                <p>A: Your data is stored locally on your device. To prevent data loss, we recommend regularly backing up using Settings → Data Management → Export Data. When switching devices, you can use the import feature to restore your data.</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: What features does Premium include?</p>
+                <p>A: Premium includes: monthly/yearly statistics views, deep data insights, all pet skins unlocked, and more. Premium is an optional paid feature — core functionality is always free.</p>
+            </div>
+
+            <div class="faq-item">
+                <p class="faq-q">Q: How do I restore a Premium purchase?</p>
+                <p>A: Tap the "Restore Purchase" button on the purchase page and verify with the Apple ID you used to purchase.</p>
+            </div>
+
+            <h2>Contact Us</h2>
+            <p>If none of the above answers your question, feel free to contact us:</p>
+            <ul>
+                <li>📧 Email: pangtong@example.com</li>
+                <li>💬 In-app feedback: Settings → About → Feedback</li>
+            </ul>
+            <p>We will reply to your email within 24 hours.</p>
+        </div>
+    </div>
+
+    <script>
+        function switchLang(lang) {
+            document.getElementById('zh').classList.toggle('active', lang === 'zh');
+            document.getElementById('en').classList.toggle('active', lang === 'en');
+        }
+    </script>
+</body>
+</html>
