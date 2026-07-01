@@ -1,0 +1,166 @@
+WaterBuddy / 水伴 - 最终用户许可协议 (EULA) / Terms of Service
+
+最后更新日期：2026年7月1日
+Last Updated: July 1, 2026
+
+=== 中文版本 ===
+
+欢迎使用"水伴"应用。在使用本应用之前，请仔细阅读以下服务条款。使用本应用即表示您同意受这些条款的约束。
+
+一、服务说明
+"水伴"是一款饮水记录与提醒应用，主要功能包括：
+- 饮水记录与统计
+- 喝水提醒通知
+- 虚拟宠物养成
+- 饮水数据统计与分析
+- Apple 健康数据同步
+本应用仅供一般健康和保健目的使用，不提供医疗建议，不能替代专业医疗诊断和治疗。
+
+二、账户与注册
+- 本应用不需要注册账户，所有数据存储在您的设备本地
+- 应用内购买通过您的 Apple ID 账户进行
+- 请妥善保管您的 Apple ID 账户信息
+
+三、应用内购买与订阅
+
+3.1 订阅类型
+- 月度订阅：每月 ¥5，自动续订
+- 年度订阅：每年 ¥58，自动续订
+
+3.2 自动续订条款
+- 订阅将自动续订，除非在当前订阅期结束前至少 24 小时关闭自动续订
+- 账户将在当前订阅期结束前 24 小时内收取续订费用
+- 付款将在确认购买时从您的 iTunes 账户中扣除
+- 您可以在 App Store 账户设置中管理和取消订阅
+- 取消订阅：在您的设备上进行：打开"设置" → 点击您的 Apple ID → 订阅 → 选择"水伴" → 取消订阅
+
+3.3 免费试用期
+如果提供免费试用期，任何未使用的试用期将在购买订阅时被没收。
+
+3.4 退款
+应用内购买的退款需通过 Apple App Store 申请，按照 Apple 的退款政策处理。
+
+四、高级版功能
+购买高级版后，您将获得以下额外功能：
+- 月/年度统计视图
+- 深度数据洞察
+- 全部宠物皮肤解锁
+- 更多高级功能（未来更新）
+我们可能会不时调整高级版功能内容，已购买的用户将继续享有当时购买的功能。
+
+五、用户行为规范
+使用本应用时，您同意：
+- 不进行任何可能干扰应用正常运行的行为
+- 不试图破解、逆向工程或修改应用
+- 不将应用用于任何非法目的
+
+六、免责声明
+
+6.1 健康免责
+本应用仅用于辅助记录和提醒饮水，不能替代专业医疗建议。如果您有特殊的健康状况或饮水需求，请咨询医生的意见。因使用本应用产生的任何健康问题，我们不承担责任。
+
+6.2 服务可用性
+我们会尽力保证应用的稳定运行，但不保证服务不会中断或完全无错误。因应用无法使用造成的损失，我们不承担责任。
+
+6.3 数据安全
+您的数据存储在设备本地，我们会采用合理的安全措施保护数据，但无法保证绝对安全。请定期备份您的重要数据。
+
+七、知识产权
+- 本应用的所有内容（包括但不限于代码、设计、图标、文字、宠物形象等）的知识产权归开发者所有
+- 未经授权，不得复制、修改、分发或用于商业用途
+
+八、服务变更与终止
+- 我们保留随时修改或终止应用服务的权利
+- 对于重大变更，我们会通过应用内通知等方式提前告知
+- 如果您不同意变更后的条款，可以停止使用本应用
+
+九、法律适用
+本服务条款的解释和执行适用中华人民共和国法律。因本条款引起的争议，双方应友好协商解决；协商不成的，可向开发者所在地人民法院提起诉讼。
+
+十、联系我们
+如果您对本服务条款有任何疑问，请联系我们：
+- 邮箱：pongtom@qq.com
+
+
+=== English Version ===
+
+Welcome to WaterBuddy. Before using this app, please read the following Terms of Service carefully. By using this app, you agree to be bound by these terms.
+
+1. Service Description
+WaterBuddy is a water intake tracking and reminder app. Its main features include:
+- Water intake recording and statistics
+- Drinking water reminder notifications
+- Virtual pet raising
+- Water data statistics and analysis
+- Apple Health data sync
+This app is for general health and wellness purposes only. It does not provide medical advice and cannot replace professional medical diagnosis and treatment.
+
+2. Account and Registration
+- This app does not require account registration. All data is stored locally on your device
+- In-app purchases are made through your Apple ID account
+- Please keep your Apple ID account information secure
+
+3. In-App Purchases and Subscriptions
+
+3.1 Subscription Types
+- Monthly Subscription: ¥5/month, auto-renews monthly
+- Yearly Subscription: ¥58/year, auto-renews yearly
+
+3.2 Auto-Renewal Terms
+- Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period
+- Account will be charged for renewal within 24 hours prior to the end of the current period
+- Payment will be charged to your iTunes Account at confirmation of purchase
+- Subscriptions may be managed by you and auto-renewal may be turned off in your App Store Account Settings
+- To cancel subscription: On your device, go to Settings → [Your Apple ID] → Subscriptions → Select "WaterBuddy" → Cancel Subscription
+
+3.3 Free Trial
+If a free trial is offered, any unused portion of the trial period will be forfeited upon purchasing a subscription.
+
+3.4 Refunds
+Refunds for in-app purchases must be requested through Apple App Store, processed according to Apple's refund policy.
+
+4. Premium Features
+After purchasing Premium, you will get the following additional features:
+- Monthly/Yearly statistics views
+- Deep data insights
+- All pet skins unlocked
+- More premium features (future updates)
+We may adjust Premium features from time to time. Users who have already purchased will continue to enjoy the features available at the time of purchase.
+
+5. User Conduct
+When using this app, you agree to:
+- Not engage in any behavior that may interfere with the normal operation of the app
+- Not attempt to crack, reverse engineer, or modify the app
+- Not use the app for any illegal purposes
+
+6. Disclaimers
+
+6.1 Health Disclaimer
+This app is only for assisting with water intake tracking and reminders, and cannot replace professional medical advice. If you have special health conditions or water intake needs, please consult your doctor. We are not responsible for any health issues arising from the use of this app.
+
+6.2 Service Availability
+We will do our best to ensure stable operation of the app, but do not guarantee uninterrupted or error-free service. We are not responsible for losses caused by app unavailability.
+
+6.3 Data Security
+Your data is stored locally on your device. We take reasonable security measures to protect data but cannot guarantee absolute security. Please back up your important data regularly.
+
+7. Intellectual Property
+- All content of this app (including but not limited to code, design, icons, text, pet images, etc.) is the intellectual property of the developer
+- Unauthorized copying, modification, distribution, or commercial use is prohibited
+
+8. Service Changes and Termination
+- We reserve the right to modify or terminate app services at any time
+- For material changes, we will notify you in advance through in-app notifications or other means
+- If you do not agree with the revised terms, you may stop using this app
+
+9. Governing Law
+The interpretation and enforcement of these Terms of Service shall be governed by the laws of the People's Republic of China. Disputes arising from these terms shall be resolved through friendly negotiation; if negotiation fails, you may file a lawsuit with the People's Court at the developer's location.
+
+10. Contact Us
+If you have any questions about these Terms of Service, please contact us at:
+- Email: pongtom@qq.com
+
+
+完整版本（包含格式）请访问：
+Full version (with formatting) available at:
+https://pangtongya.github.io/waterbuddy-pages/terms.html
